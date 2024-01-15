@@ -11,7 +11,7 @@ const App = () => {
     <div>
       <center>
          {/* <h6>ReactAPPS</h6> */}
-         {/* <WeatherApp /> */}
+         <WeatherApp />
          <FoodRecipie />
       </center>
     </div>
