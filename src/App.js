@@ -13,8 +13,8 @@ const App = () => {
       <center>
          {/* <h6>ReactAPPS</h6> */}
          {/* <WeatherApp /> */}
-         {/* <FoodRecipie /> */}
-         <WeatherInput />
+         <FoodRecipie />
+         {/* <WeatherInput /> */}
       </center>
     </div>
   )
